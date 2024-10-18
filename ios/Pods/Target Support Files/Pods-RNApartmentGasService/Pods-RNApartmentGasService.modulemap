@@ -1,0 +1,6 @@
+framework module Pods_RNApartmentGasService {
+  umbrella header "Pods-RNApartmentGasService-umbrella.h"
+
+  export *
+  module * { export * }
+}
